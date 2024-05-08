@@ -46,15 +46,17 @@ Alternately users can create a dedicated `conda` environment and install the req
 
 ## Data preparation
 
-We provide the clean and labelled curated data as Excel sheets titled "Data for model" which includes all the experimental data used for model training. 
+We provide the clean and labelled curated data as Excel sheets titled "Curated data_1234 datapoints.xlsx" which includes all the experimental data used for model training. 
+
 ## Model training
 
-The workflow uses standard training process for implementing the Random forest and we provide detailed instructions for the same. The hyperparameters of the the algorithm are optimized usingthe gridsearch methodology. 
+The workflow uses standard training process for implementing the tree-based models and we provide instructions for the same. The hyperparameters of the the algorithm are optimized usingthe gridsearch methodology. Users can directly run the model on a local computer by linking with the excel sheet provided.
 
 ## Referencing
 
 If you find this work relevant, please cite our published paper:
 
-### Identifying Descriptors for Promoted Rhodium-Based Catalysts for Higher Alcohol Synthesis via Machine Learning
- M. Suvarna, P. Preikschas, J. Pérez-Ramírez.
-ACS Catal. 2022, 12, 24, 15373–15385. (https://pubs.acs.org/doi/10.1021/acscatal.2c04349)
+### A generalized machine learning framework to predict the space-time yield of methanol from thermocatalytic CO2 hydrogenation
+ M. Suvarna, TP Araujo, J. Pérez-Ramírez.
+Appl. Catal. B Environ. 2022, 315, 121530. (https://www.sciencedirect.com/science/article/pii/S0926337322004714#sec0100)
+
