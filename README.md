@@ -1,4 +1,4 @@
-# A machine learning model for predicting catalytic activity of CO2 to methanol production
+# A machine learning model for predicting catalytic activity of CO2 to methanol production.
 
 This repository contains the code for the paper titled A generalized machine learning framework to predict the space-time yield of methanol from thermocatalytic CO2 hydrogenation
 
